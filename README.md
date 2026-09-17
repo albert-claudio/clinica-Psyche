@@ -1,4 +1,4 @@
-#Clinica Psicologica Psychê
+## Clinica Psicologica Psychê
 
 Projeto desenvolvido para a AV3 da disciplina
 Modelagem Orientada a Objetos.
@@ -17,65 +17,12 @@ de Psicologia de diferentes áreas de atuação.
 
 ## Estrutura do repositório
 
-av3-plataforma-psicologos/
-│
-├── README.md
-│
-├── docs/
-│   ├── visao/
-│   │   ├── contexto.md
-│   │   ├── problema.md
-│   │   ├── escopo.md
-│   │   └── premissas-restricoes.md
-│   │
-│   ├── requisitos/
-│   │   ├── requisitos-funcionais.md
-│   │   ├── requisitos-nao-funcionais.md
-│   │   ├── regras-de-negocio.md
-│   │   ├── historias-de-usuario.md
-│   │   └── criterios-de-aceite.md
-│   │
-│   ├── dominio/
-│   │   ├── glossario.md
-│   │   ├── stakeholders.md
-│   │   └── atores.md
-│   │
-│   ├── qualidade/
-│   │   ├── iso-25010.md
-│   │   ├── processo.md
-│   │   └── autoavaliacao.md
-│   │
-│   └── rastreabilidade/
-│       └── matriz-rastreabilidade.xlsx
-│
-├── diagramas/
-│   ├── contexto/
-│   ├── casos-de-uso/
-│   ├── classes/
-│   ├── objetos/
-│   ├── sequencia/
-│   ├── comunicacao/
-│   ├── atividades/
-│   ├── estados/
-│   ├── pacotes/
-│   ├── componentes/
-│   └── implantacao/
-│
-├── persistencia/
-│   ├── DER/
-│   ├── modelo-relacional/
-│   ├── dicionario-de-dados.xlsx
-│   └── mapeamento-objeto-relacional.md
-│
-├── pitch/
-│   ├── roteiro.md
-│   └── apresentacao/
-│
-├── relatorios/
-│   └── funcoes-da-equipe.md
-│
-└── entrega-final/
-    └── dossie-final.pdf
+- /docs — documentação e requisitos
+- /diagramas — diagramas UML
+- /persistencia — DER, modelo relacional e dicionário de dados
+- /pitch — materiais da apresentação
+- /relatorios — registros da equipe
+- /entrega-final — versão final do dossiê
 
 ## Artefatos principais
 
